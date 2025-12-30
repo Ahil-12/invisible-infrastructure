@@ -1,4 +1,4 @@
-# invisible-infrastructure
+# Invisible-Infrastructure
 
 ## Problem
 Campus infrastructure issues are usually addressed only after users complain, leading to downtime and inefficiency.
