@@ -17,4 +17,5 @@ This project implements a background monitoring system that streams infrastructu
 - Google Colab
 
 ## Demo
-Link to demo video
+Link to demo video:
+https://drive.google.com/file/d/1Wv7or-0hzz8lK-9CiidHWYpq3eyvKx2p/view?usp=sharing
